@@ -1,0 +1,7 @@
+Backstory:
+Before I fixed the problem, i tried to run this command:
+git clone https://github.com/funnydev69/cringemaster.git (the user and github project are not real)
+But got the error:
+fatal: unable to access 'https://github.com/funnydev69/cringemaster.git/': Could not resolve host: github.com
+so, I made this program to fix all these problems, running this program will allow you to install programs
+and allow you to use git for cloning projects. 
